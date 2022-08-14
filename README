@@ -12,3 +12,7 @@ The Auckland ceilometer data were published by (Wagner and Shafer,
 [online](https://catalogue.data.govt.nz/dataset/oai-figshare-com-article-11750721).
 [Marley et al (2021)](https://doi.org/10.1007/s10546-020-00579-w) discuss
 controls on the boundary layer height.
+
+## License
+
+This software is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT "MIT license").
