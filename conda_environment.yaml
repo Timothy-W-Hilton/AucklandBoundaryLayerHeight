@@ -1,0 +1,8 @@
+name: venv-ceilometer
+dependencies:
+  - pandas
+  - hvplot
+  - seaborn
+
+  - jupyter_console
+  - black
