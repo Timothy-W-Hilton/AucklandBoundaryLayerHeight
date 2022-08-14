@@ -4,7 +4,7 @@ This script plots Auckland ceilometer data (planetary boundary layer height abov
 
 ## Data Source
 
-The Auckland ceilometer data were published by (Wagner and Shafer, 2017)[https://doi.org/10.1016/j.uclim.2015.11.001], and are available [online](https://catalogue.data.govt.nz/dataset/oai-figshare-com-article-11750721). [Marley et al (2021)](https://doi.org/10.1007/s10546-020-00579-w) discuss controls on the boundary layer height.
+The Auckland ceilometer data were published by [Wagner and Shafer, 2017](https://doi.org/10.1016/j.uclim.2015.11.001), and are available [online](https://catalogue.data.govt.nz/dataset/oai-figshare-com-article-11750721).  [Marley et al (2021)](https://doi.org/10.1007/s10546-020-00579-w) discuss controls on the boundary layer height.
 
 ## License
 
